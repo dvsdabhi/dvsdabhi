@@ -1,6 +1,6 @@
 ![logo](https://github.com/dvsdabhi/dvsdabhi/blob/main/Group%202.png)
 <h1 align="center">Hi 👋, I'm Divyesh Dabhi</h1>
-<h3 align="center">A blockchain developer from India</h3>
+<h3 align="center">Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.technoloader.com/blog/wp-content/uploads/2020/07/Hire-a-Blockchain-Developer.gif" />
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Node.Js, Next.js**
 
-- 💬 Ask me about **Blockchain**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **divyeshd623@gmail.com**
 
